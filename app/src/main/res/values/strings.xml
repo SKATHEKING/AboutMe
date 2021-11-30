@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Mateus Ouro</string>
+    <string name="star_img">yellow star</string>
+    <string name="bio">Hi my name is Mateus,
+         welcome to my profile.
+        Here is a list of things I like doing playing games, reading, sports and
+        many other things.
+        I also really enjoy travelling.
+        I have been to many places in the world and I love them all.
+        I hope you can enjoy this page.
+        Much love.
+        Liberté, égalité, fraternité...
+        Mateus Goncalves De Ouro
+
+        The French Revolution had general causes common to all the revolutions of the West at the end of the 18th century and particular causes that explain why it was by far the most violent and the most universally significant of these revolutions. The first of the general causes was the social structure of the West. The feudal regime had been weakened step-by-step and had already disappeared in parts of Europe. The increasingly numerous and prosperous elite of wealthy commoners—merchants, manufacturers, and professionals, often called the bourgeoisie—aspired to political power in those countries where it did not already possess it. The peasants, many of whom owned land, had attained an improved standard of living and education and wanted to get rid of the last vestiges of feudalism so as to acquire the full rights of landowners and to be free to increase their holdings. Furthermore, from about 1730, higher standards of living had reduced the mortality rate among adults considerably. This, together with other factors, had led to an increase in the population of Europe unprecedented for several centuries: it doubled between 1715 and 1800. For France, which with 26 million inhabitants in 1789 was the most populated country of Europe, the problem was most acute.
+
+A larger population created a greater demand for food and consumer goods. The discovery of new gold mines in Brazil had led to a general rise in prices throughout the West from about 1730, indicating a prosperous economic situation. From about 1770, this trend slackened, and economic crises, provoking alarm and even revolt, became frequent. Arguments for social reform began to be advanced. The philosophes—intellectuals whose writings inspired these arguments—were certainly influenced by 17th-century theorists such as René Descartes, Benedict de Spinoza and John Locke, but they came to very different conclusions about political, social, and economic matters. A revolution seemed necessary to apply the ideas of Montesquieu, Voltaire, or Jean-Jacques Rousseau. This Enlightenment was spread among the educated classes by the many “societies of thought” that were founded at that time: masonic lodges, agricultural societies, and reading rooms.
+
+00:02
+03:45
+
+
+
+
+It is uncertain, however, whether revolution would have come without the added presence of a political crisis. Faced with the heavy expenditure that the wars of the 18th century entailed, the rulers of Europe sought to raise money by taxing the nobles and clergy, who in most countries had hitherto been exempt, To justify this, the rulers likewise invoked the arguments of advanced thinkers by adopting the role of “enlightened despots.”
+
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">DONE</string>
+</resources>
